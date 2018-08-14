@@ -1,0 +1,504 @@
+{
+    "users":[
+  {
+    "id": 0,
+    "date": "2014-12-31T18:30:00.000Z",
+    "time": "2014-12-31T18:30:00.000Z",
+    "country": "US",
+    "downloads": 19366,
+    "sales": 3886.667251435505,
+    "expenses": 1240.585848021497,
+    "checked": true
+  },
+  {
+    "id": 1,
+    "date": "2015-02-01T18:30:00.000Z",
+    "time": "2015-02-01T19:31:01.000Z",
+    "country": "Germany",
+    "downloads": 13950,
+    "sales": 7397.33829856461,
+    "expenses": 2812.4922443490973,
+    "checked": false
+  },
+  {
+    "id": 2,
+    "date": "2015-03-02T18:30:00.000Z",
+    "time": "2015-03-02T20:32:02.000Z",
+    "country": "UK",
+    "downloads": 16882,
+    "sales": 6240.238290023388,
+    "expenses": 297.29916553617784,
+    "checked": false
+  },
+  {
+    "id": 3,
+    "date": "2015-04-03T18:30:00.000Z",
+    "time": "2015-04-03T21:33:03.000Z",
+    "country": "Japan",
+    "downloads": 3209,
+    "sales": 1935.1366899653044,
+    "expenses": 1375.3850690745962,
+    "checked": false
+  },
+  {
+    "id": 4,
+    "date": "2015-05-04T18:30:00.000Z",
+    "time": "2015-05-04T22:34:04.000Z",
+    "country": "Italy",
+    "downloads": 6406,
+    "sales": 5374.274999208242,
+    "expenses": 20.188786646621047,
+    "checked": true
+  },
+  {
+    "id": 5,
+    "date": "2015-06-05T18:30:00.000Z",
+    "time": "2015-06-05T23:35:05.000Z",
+    "country": "Greece",
+    "downloads": 413,
+    "sales": 5677.782986894297,
+    "expenses": 4756.378291878115,
+    "checked": false
+  },
+  {
+    "id": 6,
+    "date": "2015-07-06T18:30:00.000Z",
+    "time": "2015-07-07T00:36:06.000Z",
+    "country": "US",
+    "downloads": 4336,
+    "sales": 323.12631062761943,
+    "expenses": 2989.1498533886183,
+    "checked": false
+  },
+  {
+    "id": 7,
+    "date": "2015-08-07T18:30:00.000Z",
+    "time": "2015-08-08T01:37:07.000Z",
+    "country": "Germany",
+    "downloads": 3506,
+    "sales": 4211.730248436296,
+    "expenses": 259.29870318572637,
+    "checked": false
+  },
+  {
+    "id": 8,
+    "date": "2015-09-08T18:30:00.000Z",
+    "time": "2015-09-09T02:38:08.000Z",
+    "country": "UK",
+    "downloads": 5894,
+    "sales": 8224.935318862823,
+    "expenses": 2528.4624229782003,
+    "checked": false
+  },
+  {
+    "id": 9,
+    "date": "2015-10-09T18:30:00.000Z",
+    "time": "2015-10-10T03:39:09.000Z",
+    "country": "Japan",
+    "downloads": 3823,
+    "sales": 4498.562490309988,
+    "expenses": 4002.188629879806,
+    "checked": false
+  },
+  {
+    "id": 10,
+    "date": "2015-11-10T18:30:00.000Z",
+    "time": "2015-11-11T04:40:10.000Z",
+    "country": "Italy",
+    "downloads": 9945,
+    "sales": 7853.997284838168,
+    "expenses": 3805.3062367768252,
+    "checked": false
+  },
+  {
+    "id": 11,
+    "date": "2015-12-11T18:30:00.000Z",
+    "time": "2015-12-12T05:41:11.000Z",
+    "country": "Greece",
+    "downloads": 19686,
+    "sales": 4315.443302170474,
+    "expenses": 2393.428144399038,
+    "checked": true
+  },
+  {
+    "id": 12,
+    "date": "2015-01-12T18:30:00.000Z",
+    "time": "2015-01-13T06:42:12.000Z",
+    "country": "US",
+    "downloads": 7398,
+    "sales": 5224.983922872546,
+    "expenses": 4450.22002098881,
+    "checked": false
+  },
+  {
+    "id": 13,
+    "date": "2015-02-13T18:30:00.000Z",
+    "time": "2015-02-14T07:43:13.000Z",
+    "country": "Germany",
+    "downloads": 5491,
+    "sales": 6353.469463140274,
+    "expenses": 300.47479754392924,
+    "checked": true
+  },
+  {
+    "id": 14,
+    "date": "2015-03-14T18:30:00.000Z",
+    "time": "2015-03-15T08:44:14.000Z",
+    "country": "UK",
+    "downloads": 9018,
+    "sales": 1484.477957702135,
+    "expenses": 4258.450345344043,
+    "checked": true
+  },
+  {
+    "id": 15,
+    "date": "2015-04-15T18:30:00.000Z",
+    "time": "2015-04-16T09:45:15.000Z",
+    "country": "Japan",
+    "downloads": 12035,
+    "sales": 9374.017407422552,
+    "expenses": 1827.6685321109687,
+    "checked": false
+  },
+  {
+    "id": 16,
+    "date": "2015-05-16T18:30:00.000Z",
+    "time": "2015-05-17T10:46:16.000Z",
+    "country": "Italy",
+    "downloads": 18021,
+    "sales": 9103.69162247712,
+    "expenses": 2633.8777183811335,
+    "checked": false
+  },
+  {
+    "id": 17,
+    "date": "2015-06-17T18:30:00.000Z",
+    "time": "2015-06-18T11:47:17.000Z",
+    "country": "Greece",
+    "downloads": 1860,
+    "sales": 2484.168435011964,
+    "expenses": 37.700891348709796,
+    "checked": true
+  },
+  {
+    "id": 18,
+    "date": "2015-07-18T18:30:00.000Z",
+    "time": "2015-07-19T12:48:18.000Z",
+    "country": "US",
+    "downloads": 9006,
+    "sales": 9636.385274364535,
+    "expenses": 3917.5419498011333,
+    "checked": false
+  },
+  {
+    "id": 19,
+    "date": "2015-08-19T18:30:00.000Z",
+    "time": "2015-08-20T13:49:19.000Z",
+    "country": "Germany",
+    "downloads": 6168,
+    "sales": 7105.412267145645,
+    "expenses": 3141.3511988657337,
+    "checked": true
+  },
+  {
+    "id": 20,
+    "date": "2015-09-20T18:30:00.000Z",
+    "time": "2015-09-21T14:50:20.000Z",
+    "country": "UK",
+    "downloads": 4896,
+    "sales": 5111.13967933483,
+    "expenses": 1405.7904310760362,
+    "checked": false
+  },
+  {
+    "id": 21,
+    "date": "2015-10-21T18:30:00.000Z",
+    "time": "2015-10-22T15:51:21.000Z",
+    "country": "Japan",
+    "downloads": 4646,
+    "sales": 1694.7355819517672,
+    "expenses": 4511.6180744281055,
+    "checked": true
+  },
+  {
+    "id": 22,
+    "date": "2015-11-22T18:30:00.000Z",
+    "time": "2015-11-23T16:52:22.000Z",
+    "country": "Italy",
+    "downloads": 14446,
+    "sales": 1836.161087550523,
+    "expenses": 322.72146777161504,
+    "checked": true
+  },
+  {
+    "id": 23,
+    "date": "2015-12-23T18:30:00.000Z",
+    "time": "2015-12-24T17:53:23.000Z",
+    "country": "Greece",
+    "downloads": 12818,
+    "sales": 9802.653418184213,
+    "expenses": 702.4534283159478,
+    "checked": true
+  },
+  {
+    "id": 24,
+    "date": "2014-12-30T18:30:00.000Z",
+    "time": "2014-12-30T18:54:24.000Z",
+    "country": "US",
+    "downloads": 18806,
+    "sales": 1408.4417811463723,
+    "expenses": 4153.350373654221,
+    "checked": true
+  },
+  {
+    "id": 25,
+    "date": "2015-01-31T18:30:00.000Z",
+    "time": "2015-01-31T19:55:25.000Z",
+    "country": "Germany",
+    "downloads": 8419,
+    "sales": 3558.958033208075,
+    "expenses": 1905.82428447853,
+    "checked": false
+  },
+  {
+    "id": 26,
+    "date": "2015-03-01T18:30:00.000Z",
+    "time": "2015-03-01T20:56:26.000Z",
+    "country": "UK",
+    "downloads": 11352,
+    "sales": 9316.761771335354,
+    "expenses": 4614.4340654125435,
+    "checked": true
+  },
+  {
+    "id": 27,
+    "date": "2015-04-02T18:30:00.000Z",
+    "time": "2015-04-02T21:57:27.000Z",
+    "country": "Japan",
+    "downloads": 9367,
+    "sales": 369.12776344221857,
+    "expenses": 1469.4563954411367,
+    "checked": true
+  },
+  {
+    "id": 28,
+    "date": "2015-05-03T18:30:00.000Z",
+    "time": "2015-05-03T22:58:28.000Z",
+    "country": "Italy",
+    "downloads": 1576,
+    "sales": 7883.589824630086,
+    "expenses": 1172.8653522663346,
+    "checked": true
+  },
+  {
+    "id": 29,
+    "date": "2015-06-04T18:30:00.000Z",
+    "time": "2015-06-04T23:59:29.000Z",
+    "country": "Greece",
+    "downloads": 19799,
+    "sales": 1127.1539177967193,
+    "expenses": 1444.650063130607,
+    "checked": false
+  },
+  {
+    "id": 30,
+    "date": "2015-07-05T18:30:00.000Z",
+    "time": "2015-07-06T01:00:30.000Z",
+    "country": "US",
+    "downloads": 4258,
+    "sales": 8893.058473534506,
+    "expenses": 4445.04840590376,
+    "checked": true
+  },
+  {
+    "id": 31,
+    "date": "2015-08-06T18:30:00.000Z",
+    "time": "2015-08-07T02:01:31.000Z",
+    "country": "Germany",
+    "downloads": 19863,
+    "sales": 897.460296003576,
+    "expenses": 2621.6701862169302,
+    "checked": false
+  },
+  {
+    "id": 32,
+    "date": "2015-09-07T18:30:00.000Z",
+    "time": "2015-09-08T03:02:32.000Z",
+    "country": "UK",
+    "downloads": 1527,
+    "sales": 4693.48724789394,
+    "expenses": 2821.4775943058403,
+    "checked": true
+  },
+  {
+    "id": 33,
+    "date": "2015-10-08T18:30:00.000Z",
+    "time": "2015-10-09T04:03:33.000Z",
+    "country": "Japan",
+    "downloads": 12946,
+    "sales": 9729.588307830682,
+    "expenses": 1057.47050006193,
+    "checked": true
+  },
+  {
+    "id": 34,
+    "date": "2015-11-09T18:30:00.000Z",
+    "time": "2015-11-10T05:04:34.000Z",
+    "country": "Italy",
+    "downloads": 107,
+    "sales": 9975.364487384868,
+    "expenses": 3040.8015345058416,
+    "checked": false
+  },
+  {
+    "id": 35,
+    "date": "2015-12-10T18:30:00.000Z",
+    "time": "2015-12-11T06:05:35.000Z",
+    "country": "Greece",
+    "downloads": 9358,
+    "sales": 8261.422373055684,
+    "expenses": 2198.23126743918,
+    "checked": true
+  },
+  {
+    "id": 36,
+    "date": "2015-01-11T18:30:00.000Z",
+    "time": "2015-01-12T07:06:36.000Z",
+    "country": "US",
+    "downloads": 13099,
+    "sales": 8023.244436970096,
+    "expenses": 1348.5568108969703,
+    "checked": false
+  },
+  {
+    "id": 37,
+    "date": "2015-02-12T18:30:00.000Z",
+    "time": "2015-02-13T08:07:37.000Z",
+    "country": "Germany",
+    "downloads": 14340,
+    "sales": 1903.8422589019067,
+    "expenses": 1724.267524027644,
+    "checked": false
+  },
+  {
+    "id": 38,
+    "date": "2015-03-13T18:30:00.000Z",
+    "time": "2015-03-14T09:08:38.000Z",
+    "country": "UK",
+    "downloads": 17543,
+    "sales": 6124.244968872501,
+    "expenses": 4239.085984432617,
+    "checked": true
+  },
+  {
+    "id": 39,
+    "date": "2015-04-14T18:30:00.000Z",
+    "time": "2015-04-15T10:09:39.000Z",
+    "country": "Japan",
+    "downloads": 5805,
+    "sales": 1699.1004367698781,
+    "expenses": 1042.8120531584307,
+    "checked": false
+  },
+  {
+    "id": 40,
+    "date": "2015-05-15T18:30:00.000Z",
+    "time": "2015-05-16T11:10:40.000Z",
+    "country": "Italy",
+    "downloads": 7785,
+    "sales": 3201.5163833788706,
+    "expenses": 2065.3799379446314,
+    "checked": false
+  },
+  {
+    "id": 41,
+    "date": "2015-06-16T18:30:00.000Z",
+    "time": "2015-06-17T12:11:41.000Z",
+    "country": "Greece",
+    "downloads": 15662,
+    "sales": 3180.179386124531,
+    "expenses": 2847.6083852109837,
+    "checked": false
+  },
+  {
+    "id": 42,
+    "date": "2015-07-17T18:30:00.000Z",
+    "time": "2015-07-18T13:12:42.000Z",
+    "country": "US",
+    "downloads": 17718,
+    "sales": 792.2834393366874,
+    "expenses": 4194.016113916702,
+    "checked": false
+  },
+  {
+    "id": 43,
+    "date": "2015-08-18T18:30:00.000Z",
+    "time": "2015-08-19T14:13:43.000Z",
+    "country": "Germany",
+    "downloads": 16583,
+    "sales": 4077.7083685271596,
+    "expenses": 4276.196535703599,
+    "checked": true
+  },
+  {
+    "id": 44,
+    "date": "2015-09-19T18:30:00.000Z",
+    "time": "2015-09-20T15:14:44.000Z",
+    "country": "UK",
+    "downloads": 2710,
+    "sales": 1081.332308076668,
+    "expenses": 331.97691234874037,
+    "checked": true
+  },
+  {
+    "id": 45,
+    "date": "2015-10-20T18:30:00.000Z",
+    "time": "2015-10-21T16:15:45.000Z",
+    "country": "Japan",
+    "downloads": 15540,
+    "sales": 3482.0442870389725,
+    "expenses": 1043.2127262222846,
+    "checked": true
+  },
+  {
+    "id": 46,
+    "date": "2015-11-21T18:30:00.000Z",
+    "time": "2015-11-22T17:16:46.000Z",
+    "country": "Italy",
+    "downloads": 2135,
+    "sales": 6307.15594311606,
+    "expenses": 2975.3477424263942,
+    "checked": false
+  },
+  {
+    "id": 47,
+    "date": "2015-12-22T18:30:00.000Z",
+    "time": "2015-12-23T18:17:47.000Z",
+    "country": "Greece",
+    "downloads": 4404,
+    "sales": 5882.11497470184,
+    "expenses": 4900.258852897134,
+    "checked": true
+  },
+  {
+    "id": 48,
+    "date": "2015-01-23T18:30:00.000Z",
+    "time": "2015-01-23T19:18:48.000Z",
+    "country": "US",
+    "downloads": 1171,
+    "sales": 89.0975240717995,
+    "expenses": 406.70148612865665,
+    "checked": false
+  },
+  {
+    "id": 49,
+    "date": "2015-01-30T18:30:00.000Z",
+    "time": "2015-01-30T20:19:49.000Z",
+    "country": "Germany",
+    "downloads": 19307,
+    "sales": 9386.453366818978,
+    "expenses": 1877.2575956685623,
+    "checked": true
+  }
+]
+    }
